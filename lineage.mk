@@ -42,3 +42,6 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="OnePlus5T-user 8.0.0 OPR6.170623.013 263 release-keys"
 
 TARGET_VENDOR := oneplus
+
+# Unofficial build ID
+TARGET_UNOFFICIAL_BUILD_ID := kylothow
