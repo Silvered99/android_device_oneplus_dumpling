@@ -22,7 +22,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/oneplus/dumpling/device.mk)
 
 
-PRODUCT_NAME := lineage_dumpling
+PRODUCT_NAME := aospa_dumpling
 PRODUCT_DEVICE := dumpling
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
